@@ -7,3 +7,4 @@ Requests For Comments for proposed improvements to the Naptha Stack.
 3. [ACTIVE] [Enhancing Secret Management](https://docs.google.com/document/d/1xcnaPAUeBz7vMh18vYxKwQnsonpdzBkHIN2ZjAJn3cA/edit?usp=sharing) by @Satti-Gowtham
 4. [ACTIVE] [Naptha Module MPC Compatibility](https://docs.google.com/document/d/156YPf3XqWKZQkLBbfe2Jk251wnps7WRYW6gbW48Am50/edit?usp=sharing) by @richardblythman
 5. [ACTIVE] [Agent Framework Plugin Architecture](https://docs.google.com/document/d/1zgqL71Udb_YbAyvFx5tBFoIsTt0eT-jarWruTy5JC8U/edit?usp=sharing) by @js-ts
+6. [ACTIVE] [Establish a Formal GitHub-Based RFC Process](https://docs.google.com/document/d/1wZujlUJhpmjBcJOMeUgulF4YNOghq1udaAWq3px2boU/edit?usp=sharing) by @MarkSchmidty
